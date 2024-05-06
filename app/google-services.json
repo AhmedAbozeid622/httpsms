@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259350569880",
+    "project_id": "abozeid-8996b",
+    "storage_bucket": "abozeid-8996b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259350569880:android:48fd4bd21b62dbe771c1ed",
+        "android_client_info": {
+          "package_name": "com.httpsms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA33cvuWBJMflshWFvzgHvIH4J5iJbcdLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
